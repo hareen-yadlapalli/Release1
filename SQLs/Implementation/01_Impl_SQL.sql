@@ -1,7 +1,7 @@
 USE [demodb]
 GO
 
-INSERT1 INTO [dbo].[Persons]
+INSERT INTO [dbo].[Persons]
            ([PersonID]
            ,[LastName]
            ,[FirstName]
