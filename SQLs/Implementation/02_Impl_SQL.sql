@@ -1,4 +1,4 @@
-USE [demodb1]
+USE [demodb]
 GO
 
 INSERT INTO [dbo].[Persons]
